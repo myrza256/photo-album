@@ -1,0 +1,12 @@
+venv
+.idea
+.idea/*
+media*
+/static/
+__pycache__
+*/__pycache__/*
+*/*/migrations/*
+*/*/__pycache__/*
+*/*/*/__pycache__/*
+venv_django1.11
+env37/
